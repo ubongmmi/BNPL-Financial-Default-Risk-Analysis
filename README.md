@@ -48,7 +48,7 @@ The analysis followed these steps:
 
 ---
 
-## 4. Analysis and Findings
+## 4. Analysis and Findings ![BNPL Default Risk Analysis](Fintech.jpg)
 
 ### 4.1 Overall Performance
 
