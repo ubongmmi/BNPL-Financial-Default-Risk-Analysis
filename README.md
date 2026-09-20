@@ -120,7 +120,7 @@ BNPL usage is heavily concentrated among younger customers (18–34), who togeth
 
 **Note:** The credit score bands are currently ordered 580–669, 670–739, 740–799, Below 580, 800+ on the dashboard axis (a text-sort artifact) rather than in ascending numeric order. Read carefully: the large majority of customers cluster in the 580–739 range, with very few customers at the extremes (Below 580 or 800+).
 
-### 4.8 Loan Amount by Age Group
+### 4.8 Loan Amount by Age Group ![BNPL Default Risk Analysis](Fintech1a.jpg)
 - 18–24: **$7.3K**
 - 25–34: **$6.3K**
 - 35–44: **$4.3K**
