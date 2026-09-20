@@ -87,7 +87,7 @@ While High Risk customers are a small share of the base, they carry a disproport
 
 Risk rises sharply moving from Employed to Unemployed. Unemployed customers are nearly as likely to be High Risk (36.81%) as Low Risk (37.40%) — the weakest risk profile of any segment.
 
-### 4.4 Total BNPL Debt by Shopping Category
+### 4.4 Total BNPL Debt by Shopping Category ![BNPL Default Risk Analysis](Fintech1.jpg)
 - Fashion: **$1.40M**
 - Electronics: **$1.04M**
 - Home/Furniture: **$0.53M**
